@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "わたしの線香",
+  "base_artist": "花譜 & 羽生まゐご",
+  "createdAt": "2026-02-08T12:53:03.476065Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "わたしの線香",
+      "artist": "花譜",
+      "has_synced": true,
+      "path": "select/01_わたしの線香_花譜.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "わたしの線香",
+      "artist": "花譜 & 羽生まゐご",
+      "has_synced": true,
+      "path": "select/02_わたしの線香_花譜_&_羽生まゐご.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "わたしの線香",
+      "artist": "花譜 & 羽生まゐご",
+      "has_synced": false,
+      "path": "select/pl_01_わたしの線香_花譜_&_羽生まゐご.txt"
+    }
+  ]
+}
